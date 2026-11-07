@@ -171,6 +171,22 @@ a:hover { opacity: 0.8; }
   letter-spacing: -0.02em;
 }
 
+/* ===== NOT FOUND ===== */
+.not-found {
+  min-height: calc(100vh - 7rem);
+  display: grid;
+  align-items: center;
+  padding: 8rem 0 4rem;
+}
+.not-found h1 {
+  color: var(--heading);
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+  margin-bottom: 1rem;
+}
+.not-found p:not(.tag) { margin-bottom: 2rem; }
+
 /* ===== RESPONSIVE ===== */
 @media (max-width: 600px) {
   .hero { padding: 9rem 0 4rem; }
