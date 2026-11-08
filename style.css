@@ -148,6 +148,38 @@ a:hover { opacity: 0.8; }
   font-size: 0.9rem; color: var(--text);
 }
 
+/* ===== APP ===== */
+.app-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.app-card summary {
+  padding: 1.25rem 1.5rem;
+  cursor: pointer;
+}
+.app-card summary strong {
+  color: var(--heading); font-size: 1rem; font-weight: 600;
+}
+.app-card summary span {
+  display: block; font-size: 0.9rem; color: var(--text);
+}
+.app-card summary:hover strong { color: var(--accent); }
+.app-details {
+  padding: 0 1.5rem 1.5rem;
+}
+.app-details ul {
+  margin: 0 0 1rem 1.25rem;
+  font-size: 0.95rem;
+}
+.app-meta { font-size: 0.85rem; }
+.btn-primary {
+  background: var(--accent); border-color: var(--accent); color: #09090b;
+}
+.btn-primary:hover {
+  color: #09090b; opacity: 0.9;
+}
+
 /* ===== CTA ===== */
 .cta-section { text-align: center; }
 .cta-section h2 { margin-bottom: 0.75rem; }
