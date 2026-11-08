@@ -1,8 +1,8 @@
-version: 3.5.0
+version: 3.6.0
 files:
-  - url: Openframe-Setup-3.5.0.exe
-    sha512: wKrqhNSvaGC46DtrqT077mIQMpas87bhwq5w49ZhuMYKFaTcL8oquZf9Hb7haXxF55dFNEsoQpHSRftFPQb43Q==
-    size: 98860288
-path: Openframe-Setup-3.5.0.exe
-sha512: wKrqhNSvaGC46DtrqT077mIQMpas87bhwq5w49ZhuMYKFaTcL8oquZf9Hb7haXxF55dFNEsoQpHSRftFPQb43Q==
-releaseDate: '2026-11-08T19:23:21.439Z'
+  - url: Openframe-Setup-3.6.0.exe
+    sha512: aO92E2uxyKSiESQbAQhLj8B08nspDCgO+mjFV0+1qfdWgVCNCcfqwgtn2o/4GyWy6pEfzBT859CA6t86DyBHUw==
+    size: 100449041
+path: Openframe-Setup-3.6.0.exe
+sha512: aO92E2uxyKSiESQbAQhLj8B08nspDCgO+mjFV0+1qfdWgVCNCcfqwgtn2o/4GyWy6pEfzBT859CA6t86DyBHUw==
+releaseDate: '2026-11-08T19:40:04.981Z'
