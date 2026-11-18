@@ -1,0 +1,11 @@
+{
+  "version": "0.1.13",
+  "file": "Homeboard-0.1.13-unsigned.ipa",
+  "sha256": "a7208c5c980cb6fe49e3f5e2bd3fb8194866839fd5518d3c0cd7902e1a3f6b6f",
+  "size": 4312476,
+  "windows": {
+    "file": "Homeboard_0.1.13_x64-setup.exe",
+    "sha256": "7f575eaa8fdd42048e8692e6301306035082bbcffc128f88d9e136d9fba098eb",
+    "size": 3263509
+  }
+}
